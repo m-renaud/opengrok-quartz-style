@@ -413,6 +413,10 @@ table#revisions {
     white-space: nowrap;
 }
 
+#difftable {
+    width: 70%;
+}
+
 #diffbar .d, #difftable .d {
     /* "Deleted" heading + highlight of deleted text in diff lines */
     background-color: #ff7070;
