@@ -399,8 +399,7 @@ table#revisions {
 }
 
 .rssbadge { /* RSS/XML Feed on history page */
-    text-align: right;
-    margin: 1ex 0;
+    display: none;
 }
 
 
