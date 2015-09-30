@@ -414,7 +414,6 @@ table#revisions {
 
 #difftable {
     width: 70%;
-    margin-bottom: 1.5em;
 }
 
 #diffbar .d, #difftable .d {
@@ -550,7 +549,6 @@ div[id^='src'] {
     padding-bottom: 1ex;
     border: 1px solid #ddd;
     box-shadow: 5px 5px 20px #bbb;
-    margin-bottom: 1.5em;
 }
 
 div[id^='src'] pre {
@@ -704,7 +702,6 @@ a.scope { /* scope */                   color: dodgerblue; font-weight: bold; pa
     border: 1px solid #ddd;
     padding: 1ex;
     box-shadow: 5px 5px 20px #bbb;
-    margin-bottom: 1.5em;
 }
 
 #results p { /* pagetitle and slider */
@@ -772,10 +769,9 @@ a.scope { /* scope */                   color: dodgerblue; font-weight: bold; pa
 
 /* ############### start of footer ############## */
 #footer {
-    margin-top: 30px;
     color: #777777;
     font-size: small;
-    margin: 1ex 0;
+    margin: 1.5em 0;
 }
 
 #footer p { /* footer text */
