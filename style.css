@@ -415,6 +415,7 @@ table#revisions {
 
 #difftable {
     width: 70%;
+    margin-bottom: 1.5em;
 }
 
 #diffbar .d, #difftable .d {
