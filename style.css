@@ -429,10 +429,11 @@ table#revisions {
 
 #diffbar .legend {
     /* bottom must be the same as .tabs span(padding-bottom) */
+    display: none;
     margin: 0 3ex 0.75ex 1ex;
 }
 
-#diffbar .legend span, #diffbar .ctype span {
+#diffbar .ctype span {
     padding: 0.2ex 1ex; /* bottom must be less than margin-bottom(.legend) */
 }
 
