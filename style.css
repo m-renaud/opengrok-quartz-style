@@ -103,6 +103,7 @@ label {
 
 /* ############### start of header ############## */
 #whole_header {
+    padding-bottom: 1ex;
     border-bottom: 1px solid #ddd;
     border-radius: 1px;
 }
