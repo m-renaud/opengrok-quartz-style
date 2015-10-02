@@ -162,6 +162,10 @@ label {
     background: none; /* remove alternating colors */
 }
 
+#qtbl tr td:first-of-type {
+    padding-right: 1ex;
+}
+
 #ptbl > p {
     text-align: center;
     white-space: nowrap;
