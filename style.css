@@ -698,6 +698,7 @@ a.scope { /* scope */                   color: dodgerblue; font-weight: bold; pa
 
 /* search result page */
 #results {
+    width: 70%;
     margin-top: 2em;
     border: 1px solid #ddd;
     padding: 1ex;
@@ -714,7 +715,8 @@ a.scope { /* scope */                   color: dodgerblue; font-weight: bold; pa
 }
 
 #results .dir { /* directory row above matched files */
-    background-color: #c5d5a9;
+    line-height: 1.7em;
+    background-color: #00b2ee;
 }
 
 #results .dir td { /* directory link */
