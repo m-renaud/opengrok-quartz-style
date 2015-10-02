@@ -520,6 +520,10 @@ table#dirlist { /* the "Name" column */
     box-shadow: 5px 5px 20px #bbb;
 }
 
+#dirlist thead {
+    background-color: #00b2ee;
+}
+
 /* The tablersorter jQuery plugin makes the header fields clickable. */
 #dirlist th {
     cursor: pointer;
