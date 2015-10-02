@@ -525,6 +525,10 @@ table#dirlist { /* the "Name" column */
     cursor: pointer;
 }
 
+#dirlist tr {
+    line-height: 1.5em;
+}
+
 #dirlist .r, #dirlist .p {
     padding: 0;
     margin: 0 0 0 1em;
